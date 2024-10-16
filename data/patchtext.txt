@@ -1,0 +1,13 @@
+Patch Notes! (scroll)
+
+QuadKillers 1.3.0: We added a miniboss along with a world system! Minor improvements to performance as well.
+
+QuadKillers 1.2.4: We updated the tutorial. Instead of a basic set of ugly textboxes, we made an interactive set of intructions. We also improved performance and fixed a few issues
+
+QuadKillers 1.2.3: We added healers! Healers are slightly slower than other enemies, but can heal 10 health to each enemy in their healing radius
+
+Quadkillers 1.2.2: We added patch notes! Wooooo!
+
+Quadkillers 1.2.1: Rockets added! Rockets will fly towards you slightly faster than enemies, and we made all explosions damage enemies. Rockets can be set off by explosions.
+
+Quadkillers 1.1: We added ranged enemies! Turrets can shoot orbs at you to deal damage, but will always avoid you unlike troops.
